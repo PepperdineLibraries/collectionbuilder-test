@@ -31,10 +31,10 @@ description: "A selection of digitized artwork from the Frederick R. Weisman Mus
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Ye
 # Organization branding
-organization-name: #"Digital Initiatives, University of Idaho Library"
-organization-link: #https://www.lib.uidaho.edu/digital/
-organization-logo-banner: #https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: #https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Pepperdine University Libraries" #"Digital Initiatives, University of Idaho Library"
+organization-link: https://library.pepperdine.edu/ #https://www.lib.uidaho.edu/digital/
+organization-logo-banner: https://community.pepperdine.edu/imc/images/brand/pepp-formal-wordmark.jpg #https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-logo-nav: https://community.pepperdine.edu/imc/images/brand/pepp-formal-wordmark.jpg #https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
 ##########
 # COLLECTION SETTINGS
