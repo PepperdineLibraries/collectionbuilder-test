@@ -16,7 +16,7 @@ url: https://pepperdinelibraries.github.io/ # https://graceganye.github.io
 #baseurl: /collectionbuilder-gh 
 baseurl: /collectionbuilder-test
 # location of code, the full url to your github repository
-source-code: https://pepperdinelibraries.github.io/collectionbuilder/ # https://graceganye.github.io/collectionbuilder-test/
+source-code: https://pepperdinelibraries.github.io/collectionbuilder-test/ # https://graceganye.github.io/collectionbuilder-test/
 
 ##########
 # SITE SETTINGS
